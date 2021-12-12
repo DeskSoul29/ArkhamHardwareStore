@@ -1,0 +1,16 @@
+**GRUPO 6***
+
+Explicacion de siseño y condificacion ArkhamHardowareStore index, plantilla y modelo vista controlador, funcionalidades clientes y ventas
+
+Integrantes:
+* Andrea Carmargo Merchan
+* Julian Andres Gafaro Duque
+* Diego Andres Echeverria Ramirez CLIENTES Y VENTAS - Explicacion de codigo y diseño
+* Jhan Carlos Ramirez Navarro (ScrumMaster)
+
+Video:
+https://drive.google.com/file/d/1LmVTgScMEZEpniy-6oS01RD3_n4ICgU0/view?usp=sharing
+
+
+Repositorio:
+https://github.com/DeskSoul29/ArkhamHardwareStore.git
